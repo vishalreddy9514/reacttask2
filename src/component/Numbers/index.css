@@ -1,0 +1,14 @@
+.number{
+    height: 30px;
+    margin: 0px;
+}
+.num-btn{
+    background-color: transparent;
+    outline: none;
+    border-width: 0px;
+    color: #ffffff;
+    font-size: 24px;
+    font-family: "Roboto";
+    margin-right: 40px;
+    margin-top: 10px;
+}
